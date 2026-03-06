@@ -1,5 +1,8 @@
 # README — Como rodar o projeto de teste do Agente de Anamnese Clínica
 
+
+![](image.png)
+
 Este guia foi escrito para uma pessoa **leiga**, sem experiência prévia com programação.
 
 O objetivo é ajudar você a:
